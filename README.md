@@ -11,7 +11,7 @@ _Syntax.Rocks is a place where developers could collaborate with one another to 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Yo chai edited ho hai gaich.
 
 ### Prerequisites
 
